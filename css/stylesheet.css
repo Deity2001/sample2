@@ -1,0 +1,44 @@
+
+hr {
+        width: 5%;
+        height: 1px;
+        
+   
+       border-style: dotted none none;
+        border-width: 7px;
+       border-spacing: 12px;
+       border-color:grey;
+}
+     body{
+       background-color:indigo;
+     }   
+h1 {
+   font-style: italic;
+   color: rgb(250, 250, 248);
+}
+p{
+  color: silver;
+}
+
+strong{
+  color: aliceblue;
+}
+h3{
+  color: white;
+}
+td{
+  color:silver ;
+}
+th{
+  color: honeydew;
+}
+a{
+  color: aliceblue;
+}
+/*#h123{
+  color: rgb(253, 249, 249);
+}
+.hello{
+  color: red;
+
+}
